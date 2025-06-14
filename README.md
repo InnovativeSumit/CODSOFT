@@ -15,4 +15,4 @@ This repository contains my completed tasks for **Level 1** of the **Web Develop
 | 2. Portfolio Website | Personal portfolio with multiple sections | HTML, CSS |
 | 3. Calculator | Functional calculator with UI | HTML, CSS, JavaScript |
 
-## 📂 Project Structure
+
