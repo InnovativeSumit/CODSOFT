@@ -12,7 +12,7 @@ This repository contains my completed tasks for **Level 1** of the **Web Develop
 | Task | Description | Technologies Used |
 |------|------------|-------------------|
 | 1. Landing Page | A responsive landing page with modern design | HTML, CSS |
-| 2. Portfolio Website | Personal portfolio with multiple sections | HTML, CSS |
+| 2. Portfolio Website | Personal portfolio with multiple sections | HTML, CSS, JavaScript|
 | 3. Calculator | Functional calculator with UI | HTML, CSS, JavaScript |
 
 
