@@ -22,6 +22,11 @@ This repository contains my completed tasks for **Level 1** of the **Web Develop
 - JavaScript programming for interactivity  
 - Code structuring and organization for maintainability  
 
+## 📜 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+
 # 🙏 Acknowledgments
 
 Thanks to all open-source libraries, hardware manufacturers, and community contributors who made this project possible.
